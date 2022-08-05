@@ -1,4 +1,7 @@
 
+
+<img src=".github/cover-reactjs.png" alt="ignite">
+
 <h1 align="center">
   🚀 Conceitos ReactJS 🚀
 
